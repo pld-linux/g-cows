@@ -1,5 +1,5 @@
 Summary:	G-Cows - simple scripting language for web content management
-Summary(pl):	G-Cows - prosty jêzyk skryptowy do zarz±dzania tre¶ci± WWW
+Summary(pl.UTF-8):   G-Cows - prosty jÄ™zyk skryptowy do zarzÄ…dzania treÅ›ciÄ… WWW
 Name:		g-cows
 Version:	1.4
 Release:	1
@@ -22,11 +22,11 @@ G-Cows is a software project consisting in:
 - interpreter for the scripting language (Cows);
 - a makefile generator (Cows-mkgen);
 
-%description -l pl
-G-Cows jest projektem, w sk³ad którego wchodzi:
-- jêzyk skryptowy zaprojektowany do tworzenia stron internetowych;
-- interpreter tego jêzyka
-- generator plików makefile (Cows-mkgen);
+%description -l pl.UTF-8
+G-Cows jest projektem, w skÅ‚ad ktÃ³rego wchodzi:
+- jÄ™zyk skryptowy zaprojektowany do tworzenia stron internetowych;
+- interpreter tego jÄ™zyka
+- generator plikÃ³w makefile (Cows-mkgen);
 
 %prep
 %setup -q
