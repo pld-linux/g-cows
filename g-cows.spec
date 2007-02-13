@@ -1,5 +1,5 @@
 Summary:	G-Cows - simple scripting language for web content management
-Summary(pl.UTF-8):   G-Cows - prosty język skryptowy do zarządzania treścią WWW
+Summary(pl.UTF-8):	G-Cows - prosty język skryptowy do zarządzania treścią WWW
 Name:		g-cows
 Version:	1.4
 Release:	1
